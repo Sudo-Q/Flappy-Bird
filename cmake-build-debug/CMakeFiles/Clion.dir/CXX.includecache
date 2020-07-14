@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duonglh/Code/Game C++/Clion/Background.cpp
+Background.h
+/home/duonglh/Code/Game C++/Clion/Background.h
+
+/home/duonglh/Code/Game C++/Clion/Background.h
+SFML/Graphics.hpp
+/home/duonglh/Code/Game C++/Clion/SFML/Graphics.hpp
+SFML/Audio.hpp
+/home/duonglh/Code/Game C++/Clion/SFML/Audio.hpp
+
