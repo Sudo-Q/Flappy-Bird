@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/duonglh/Code/Game C++/Clion/Background.cpp" "/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles/Clion.dir/Background.cpp.o"
-  "/home/duonglh/Code/Game C++/Clion/Bird.cpp" "/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles/Clion.dir/Bird.cpp.o"
-  "/home/duonglh/Code/Game C++/Clion/Game.cpp" "/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles/Clion.dir/Game.cpp.o"
-  "/home/duonglh/Code/Game C++/Clion/main.cpp" "/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles/Clion.dir/main.cpp.o"
+  "/home/duonglh/Code/Game C++/Flappy Bird/Background.cpp" "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles/Clion.dir/Background.cpp.o"
+  "/home/duonglh/Code/Game C++/Flappy Bird/Bird.cpp" "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles/Clion.dir/Bird.cpp.o"
+  "/home/duonglh/Code/Game C++/Flappy Bird/Game.cpp" "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles/Clion.dir/Game.cpp.o"
+  "/home/duonglh/Code/Game C++/Flappy Bird/main.cpp" "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles/Clion.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

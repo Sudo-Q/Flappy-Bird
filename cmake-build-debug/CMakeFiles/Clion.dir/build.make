@@ -43,10 +43,10 @@ RM = /snap/clion/114/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/duonglh/Code/Game C++/Clion"
+CMAKE_SOURCE_DIR = "/home/duonglh/Code/Game C++/Flappy Bird"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/duonglh/Code/Game C++/Clion/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Clion.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/Clion.dir/flags.make
 
 CMakeFiles/Clion.dir/main.cpp.o: CMakeFiles/Clion.dir/flags.make
 CMakeFiles/Clion.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Clion.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Clion.dir/main.cpp.o -c "/home/duonglh/Code/Game C++/Clion/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Clion.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Clion.dir/main.cpp.o -c "/home/duonglh/Code/Game C++/Flappy Bird/main.cpp"
 
 CMakeFiles/Clion.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Clion.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/duonglh/Code/Game C++/Clion/main.cpp" > CMakeFiles/Clion.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/duonglh/Code/Game C++/Flappy Bird/main.cpp" > CMakeFiles/Clion.dir/main.cpp.i
 
 CMakeFiles/Clion.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Clion.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/duonglh/Code/Game C++/Clion/main.cpp" -o CMakeFiles/Clion.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/duonglh/Code/Game C++/Flappy Bird/main.cpp" -o CMakeFiles/Clion.dir/main.cpp.s
 
 CMakeFiles/Clion.dir/Game.cpp.o: CMakeFiles/Clion.dir/flags.make
 CMakeFiles/Clion.dir/Game.cpp.o: ../Game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Clion.dir/Game.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Clion.dir/Game.cpp.o -c "/home/duonglh/Code/Game C++/Clion/Game.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Clion.dir/Game.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Clion.dir/Game.cpp.o -c "/home/duonglh/Code/Game C++/Flappy Bird/Game.cpp"
 
 CMakeFiles/Clion.dir/Game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Clion.dir/Game.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/duonglh/Code/Game C++/Clion/Game.cpp" > CMakeFiles/Clion.dir/Game.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/duonglh/Code/Game C++/Flappy Bird/Game.cpp" > CMakeFiles/Clion.dir/Game.cpp.i
 
 CMakeFiles/Clion.dir/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Clion.dir/Game.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/duonglh/Code/Game C++/Clion/Game.cpp" -o CMakeFiles/Clion.dir/Game.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/duonglh/Code/Game C++/Flappy Bird/Game.cpp" -o CMakeFiles/Clion.dir/Game.cpp.s
 
 CMakeFiles/Clion.dir/Background.cpp.o: CMakeFiles/Clion.dir/flags.make
 CMakeFiles/Clion.dir/Background.cpp.o: ../Background.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Clion.dir/Background.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Clion.dir/Background.cpp.o -c "/home/duonglh/Code/Game C++/Clion/Background.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Clion.dir/Background.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Clion.dir/Background.cpp.o -c "/home/duonglh/Code/Game C++/Flappy Bird/Background.cpp"
 
 CMakeFiles/Clion.dir/Background.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Clion.dir/Background.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/duonglh/Code/Game C++/Clion/Background.cpp" > CMakeFiles/Clion.dir/Background.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/duonglh/Code/Game C++/Flappy Bird/Background.cpp" > CMakeFiles/Clion.dir/Background.cpp.i
 
 CMakeFiles/Clion.dir/Background.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Clion.dir/Background.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/duonglh/Code/Game C++/Clion/Background.cpp" -o CMakeFiles/Clion.dir/Background.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/duonglh/Code/Game C++/Flappy Bird/Background.cpp" -o CMakeFiles/Clion.dir/Background.cpp.s
 
 CMakeFiles/Clion.dir/Bird.cpp.o: CMakeFiles/Clion.dir/flags.make
 CMakeFiles/Clion.dir/Bird.cpp.o: ../Bird.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Clion.dir/Bird.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Clion.dir/Bird.cpp.o -c "/home/duonglh/Code/Game C++/Clion/Bird.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Clion.dir/Bird.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Clion.dir/Bird.cpp.o -c "/home/duonglh/Code/Game C++/Flappy Bird/Bird.cpp"
 
 CMakeFiles/Clion.dir/Bird.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Clion.dir/Bird.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/duonglh/Code/Game C++/Clion/Bird.cpp" > CMakeFiles/Clion.dir/Bird.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/duonglh/Code/Game C++/Flappy Bird/Bird.cpp" > CMakeFiles/Clion.dir/Bird.cpp.i
 
 CMakeFiles/Clion.dir/Bird.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Clion.dir/Bird.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/duonglh/Code/Game C++/Clion/Bird.cpp" -o CMakeFiles/Clion.dir/Bird.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/duonglh/Code/Game C++/Flappy Bird/Bird.cpp" -o CMakeFiles/Clion.dir/Bird.cpp.s
 
 # Object files for target Clion
 Clion_OBJECTS = \
@@ -129,7 +129,7 @@ Clion: /usr/lib/x86_64-linux-gnu/libsfml-audio.so.2.5.1
 Clion: /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1
 Clion: /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
 Clion: CMakeFiles/Clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -142,6 +142,6 @@ CMakeFiles/Clion.dir/clean:
 .PHONY : CMakeFiles/Clion.dir/clean
 
 CMakeFiles/Clion.dir/depend:
-	cd "/home/duonglh/Code/Game C++/Clion/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/duonglh/Code/Game C++/Clion" "/home/duonglh/Code/Game C++/Clion" "/home/duonglh/Code/Game C++/Clion/cmake-build-debug" "/home/duonglh/Code/Game C++/Clion/cmake-build-debug" "/home/duonglh/Code/Game C++/Clion/cmake-build-debug/CMakeFiles/Clion.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/duonglh/Code/Game C++/Flappy Bird" "/home/duonglh/Code/Game C++/Flappy Bird" "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug" "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug" "/home/duonglh/Code/Game C++/Flappy Bird/cmake-build-debug/CMakeFiles/Clion.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Clion.dir/depend
 
